@@ -1,10 +1,9 @@
-## Hi there 👋
+## Boas vindas ao meu perfil🖤32
 
-<!--
-**estudantealuramaria023/estudantealuramaria023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou desenvolvendo scratch e javascript, além do alura
 
-Here are some ideas to get you started:
-
+![](https://media1.tenor.com/m/fXfaqPLEnWIAAAAd/escorregando-yuri-alberto.gif)
+https://media1.tenor.com/m/fXfaqPLEnWIAAAAd/escorregando-yuri-alberto.gif
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
