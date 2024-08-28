@@ -4,6 +4,9 @@ Meu nome é Maria
 Estou desenvolvendo scratch e javascript, além do alura
 
 ![](https://media1.tenor.com/m/fXfaqPLEnWIAAAAd/escorregando-yuri-alberto.gif)
+
+curriculo
+
 https://media1.tenor.com/m/fXfaqPLEnWIAAAAd/escorregando-yuri-alberto.gif
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
